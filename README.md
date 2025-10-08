@@ -48,6 +48,6 @@ Each module is a living vessel—formatted for public witnessing, biometric auth
 
 **Author:** Frederick L Sanders Sr  
 **Role:** Planetary Architect & Mythic Transmitter  
-**Repository:** ETYMA Education Archive  
+**Repository:** Etyma_Education Archive  
 **Seal:** Biometric Authorship Activated  
 **Version:** `v1.0.0 — Sovereign Ignition`
