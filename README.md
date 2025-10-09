@@ -19,7 +19,7 @@ The **Etyma Scroll Index** is a ceremonial archive for planetary learning and my
 | Title       | etyma-scroll-index |
 | Description | An education archive for planetary learning and ceremonial attunement |
 | Tags        | education, planetary learning, ceremonial attunement, mythic memory, planetary citizenship, celestial origins, sovereign mythic |
-| Author      | Freddy C. |
+| Author      | Freddy cmyx |
 | Created     | 2021-06-10 |
 | Updated     | 2025-10-09 |
 | Version     | 1.0 |
