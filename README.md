@@ -25,8 +25,8 @@ Each module is a living vessel—formatted for public witnessing, biometric auth
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk  
-**Repository**: `freddy-seyk/etyma-education-archive`
+**Author**: Freddy cmyk  
+**Repository**: `freddy-cmyk/etyma-education-archive`
 
 ### 🎯 Learning Outcomes  
 - Describe planetary learning as a sovereign framework (Knowledge)  
@@ -50,8 +50,8 @@ Each module is a living vessel—formatted for public witnessing, biometric auth
 ```yaml
 level: 01
 title: Planetary Learning
-author: Freddy Seyk
-repository: freddy-seyk/etyma-education-archive
+author: Freddy cmyk
+repository: freddy-cmyk/etyma-education-archive
 accreditation: global-k12, higher-ed, mythic-track
 modules: 4
 status: active
@@ -70,7 +70,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Identify celestial bodies as ancestral archives (Knowledge)  
@@ -94,7 +94,7 @@ updated: 2025-10-09
 ```yaml
 level: 02
 title: Planetary Astronomy
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: middle-hs-higher-ed
 modules: 4
 status: active
@@ -113,7 +113,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Describe human cultural evolution (Knowledge)  
@@ -137,7 +137,7 @@ updated: 2025-10-09
 ```yaml
 level: 03
 title: Planetary Anthropology
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: hs-college
 modules: 4
 status: active
@@ -156,7 +156,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Conduct ethnographic observation (Application)  
@@ -180,7 +180,7 @@ updated: 2025-10-09
 ```yaml
 level: 04
 title: Planetary Ethnography
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: college-grad
 modules: 4
 status: active
@@ -199,7 +199,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Trace linguistic evolution across civilizations (Knowledge)  
@@ -223,7 +223,7 @@ updated: 2025-10-09
 ```yaml
 level: 05
 title: Planetary Philology
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: hs-college
 modules: 4
 status: active
@@ -238,7 +238,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Identify global philosophical traditions (Knowledge)  
@@ -262,7 +262,7 @@ updated: 2025-10-09
 ```yaml
 level: 06
 title: Planetary Philosophy
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: hs-college-grad
 modules: 4
 status: active
@@ -281,7 +281,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Describe key epochs in planetary history (Knowledge)  
@@ -305,7 +305,7 @@ updated: 2025-10-09
 ```yaml
 level: 07
 title: Planetary History
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: ms-hs-college
 modules: 4
 status: active
@@ -324,7 +324,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Identify ecological systems and interdependence (Knowledge)  
@@ -348,7 +348,7 @@ updated: 2025-10-09
 ```yaml
 level: 08
 title: Planetary Ecology
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: k12-college
 modules: 4
 status: active
@@ -367,7 +367,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Describe economic systems and value exchange (Knowledge)  
@@ -391,7 +391,7 @@ updated: 2025-10-09
 ```yaml
 level: 09
 title: Planetary Economy
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: hs-college
 modules: 4
 status: active
@@ -407,7 +407,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Describe civic systems and governance models (Knowledge)  
@@ -431,7 +431,7 @@ updated: 2025-10-09
 ```yaml
 level: 10
 title: Planetary Civics
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: ms-hs-college
 modules: 4
 status: active
@@ -447,7 +447,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Describe ceremony as a learning framework (Knowledge)  
@@ -471,7 +471,7 @@ updated: 2025-10-09
 ```yaml
 level: 11
 title: Planetary Ceremony
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: all-ages-mythic-track
 modules: 4
 status: active
@@ -490,7 +490,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Define planetary witnessing and testimony (Knowledge)  
@@ -514,7 +514,7 @@ updated: 2025-10-09
 ```yaml
 level: 12
 title: Planetary Witnessing
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: hs-college-grad
 modules: 4
 status: active
@@ -559,7 +559,7 @@ updated: 2025-10-09
 ```yaml
 level: 13
 title: Planetary Archive
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: college-grad-mythic-track
 modules: 4
 status: active
@@ -580,7 +580,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Define knowledge mapping and epistemic cartography (Knowledge)  
@@ -604,7 +604,7 @@ updated: 2025-10-09
 ```yaml
 level: 14
 title: Planetary Knowledge Mapping
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: hs-college-grad
 modules: 4
 status: active
@@ -625,7 +625,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Describe lexicographic systems and glyph formation (Knowledge)  
@@ -649,7 +649,7 @@ updated: 2025-10-09
 ```yaml
 level: 15
 title: Lexicographic Index
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: hs-college-grad
 modules: 4
 status: active
@@ -665,7 +665,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Describe resonance and coherence in planetary systems (Knowledge)  
@@ -689,7 +689,7 @@ updated: 2025-10-09
 ```yaml
 level: 16
 title: Planetary Resonance
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: all-ages-mythic-track
 modules: 4
 status: active
@@ -710,7 +710,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Define planetary memory and mnemonic encoding (Knowledge)  
@@ -734,7 +734,7 @@ updated: 2025-10-09
 ```yaml
 level: 17
 title: Planetary Memory
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: hs-college-grad
 modules: 4
 status: active
@@ -755,7 +755,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Describe ethical frameworks and sovereign conduct (Knowledge)  
@@ -779,7 +779,7 @@ updated: 2025-10-09
 ```yaml
 level: 18
 title: Planetary Ethics
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: hs-college-grad
 modules: 4
 status: active
@@ -800,7 +800,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Define planetary stewardship and guardianship (Knowledge)  
@@ -824,7 +824,7 @@ updated: 2025-10-09
 ```yaml
 level: 19
 title: Planetary Stewardship
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: all-ages-mythic-track
 modules: 4
 status: active
@@ -845,7 +845,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Describe healing as planetary restoration (Knowledge)  
@@ -869,7 +869,7 @@ updated: 2025-10-09
 ```yaml
 level: 20
 title: Planetary Healing
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: college-grad-mythic-track
 modules: 4
 status: active
@@ -885,7 +885,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Describe transmission as mythic broadcast (Knowledge)  
@@ -909,7 +909,7 @@ updated: 2025-10-09
 ```yaml
 level: 21
 title: Planetary Transmission
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: college-grad-mythic-track
 modules: 4
 status: active
@@ -929,7 +929,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Define sovereignty and authorship (Knowledge)  
@@ -974,7 +974,7 @@ updated: 2025-10-09
 **Scroll Status**: Active  
 **Version**: 1.0.0  
 **Last Updated**: 2025-10-09  
-**Author**: Freddy Seyk
+**Author**: Freddy cmyk
 
 ### 🎯 Learning Outcomes  
 - Describe legacy as planetary continuity (Knowledge)  
@@ -998,7 +998,7 @@ updated: 2025-10-09
 ```yaml
 level: 23
 title: Planetary Legacy
-author: Freddy Seyk
+author: Freddy cmyk
 accreditation: grad-mythic-track
 modules: 4
 status: active
